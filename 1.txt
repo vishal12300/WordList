@@ -2,6 +2,7 @@
 /admin/heapdump
 /manage/heapdump
 /actuator/heapdump
+/app_dev.php/_profiler/open?file=app/config/parameters.yml
 /solr
 /Search-Replace-DB/
 /Search-Replace-DB-master/
